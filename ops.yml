@@ -1,0 +1,18 @@
+# for more info visit https://cto.ai/docs/ops-reference
+version: "1"
+commands:
+  - name: query-mysql:0.1.0
+    public: true
+    description: An Op for querying MySQL databases
+    run: python3 /ops/main.py
+    remote: true
+    sdk: "2"
+    sourceCodeURL: "https://github.com/cto-ai/query-mysql"
+    mountCwd: false
+    mountHome: false
+    help:
+      usage: 'ops run query-mysql'
+      arguments:
+        none: ""
+      options:
+        none: ""

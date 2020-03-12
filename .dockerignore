@@ -1,0 +1,17 @@
+**
+
+!/assets/**
+!/main.py
+!/ops.yml
+!/src/**
+!CONTRIBUTING.md
+!LICENSE
+!README.md
+!requirements.txt
+
+**/*~
+**/*.log
+**/.DS_Store
+**/Thumbs.db
+/src/__pycache__
+notes
