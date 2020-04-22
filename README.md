@@ -1,4 +1,5 @@
-![](assets/banner.png)
+![](https://cto.ai/static/oss-banner.png)
+
 # Query-MySQL Op 🚀
 
 The Query MySQL Op is designed to allow users to conveniently make queries to a MySQL database.
